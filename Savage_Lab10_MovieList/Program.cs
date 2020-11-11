@@ -33,10 +33,6 @@ namespace Savage_Lab10_MovieList
 
             movies.Add(ABugsLife);
 
-           /* foreach (var movie in movies)
-            {
-                Console.WriteLine($"{movie.Title} is the name of the movie and the genre is {movie.Genre}!");
-            }*/
 
             var askUserTitleOrGenre = AskUserTitleOrGenre();
 
@@ -44,7 +40,15 @@ namespace Savage_Lab10_MovieList
             
             foreach (var input in movies)
             {
-                Console.WriteLine($"{input.Title}");
+                if (input.Title == askUserTitleOrGenre)
+                {
+                    Console.WriteLine($"Title: {input.Title} Genre: {input.Genre}");
+                }
+                if(input.Genre == askUserTitleOrGenre)
+                {
+                    Console.WriteLine($"Titles: {input.Title}");
+                }
+
             }
   
         }

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savage_Lab10_MovieList", "Savage_Lab10_MovieList\Savage_Lab10_MovieList.csproj", "{B333C79B-5115-42EB-8E22-C585C51D0064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B333C79B-5115-42EB-8E22-C585C51D0064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B333C79B-5115-42EB-8E22-C585C51D0064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B333C79B-5115-42EB-8E22-C585C51D0064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B333C79B-5115-42EB-8E22-C585C51D0064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0A16FCD-4532-4ADC-B757-FBCEE1BF83F1}
+	EndGlobalSection
+EndGlobal

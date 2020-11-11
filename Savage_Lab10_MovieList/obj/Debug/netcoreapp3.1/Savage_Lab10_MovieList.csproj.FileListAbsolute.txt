@@ -1,0 +1,13 @@
+C:\Users\there\source\repos\Savage_Lab10_MovieList\Savage_Lab10_MovieList\bin\Debug\netcoreapp3.1\Savage_Lab10_MovieList.exe
+C:\Users\there\source\repos\Savage_Lab10_MovieList\Savage_Lab10_MovieList\bin\Debug\netcoreapp3.1\Savage_Lab10_MovieList.deps.json
+C:\Users\there\source\repos\Savage_Lab10_MovieList\Savage_Lab10_MovieList\bin\Debug\netcoreapp3.1\Savage_Lab10_MovieList.runtimeconfig.json
+C:\Users\there\source\repos\Savage_Lab10_MovieList\Savage_Lab10_MovieList\bin\Debug\netcoreapp3.1\Savage_Lab10_MovieList.runtimeconfig.dev.json
+C:\Users\there\source\repos\Savage_Lab10_MovieList\Savage_Lab10_MovieList\bin\Debug\netcoreapp3.1\Savage_Lab10_MovieList.dll
+C:\Users\there\source\repos\Savage_Lab10_MovieList\Savage_Lab10_MovieList\bin\Debug\netcoreapp3.1\Savage_Lab10_MovieList.pdb
+C:\Users\there\source\repos\Savage_Lab10_MovieList\Savage_Lab10_MovieList\obj\Debug\netcoreapp3.1\Savage_Lab10_MovieList.csprojAssemblyReference.cache
+C:\Users\there\source\repos\Savage_Lab10_MovieList\Savage_Lab10_MovieList\obj\Debug\netcoreapp3.1\Savage_Lab10_MovieList.AssemblyInfoInputs.cache
+C:\Users\there\source\repos\Savage_Lab10_MovieList\Savage_Lab10_MovieList\obj\Debug\netcoreapp3.1\Savage_Lab10_MovieList.AssemblyInfo.cs
+C:\Users\there\source\repos\Savage_Lab10_MovieList\Savage_Lab10_MovieList\obj\Debug\netcoreapp3.1\Savage_Lab10_MovieList.csproj.CoreCompileInputs.cache
+C:\Users\there\source\repos\Savage_Lab10_MovieList\Savage_Lab10_MovieList\obj\Debug\netcoreapp3.1\Savage_Lab10_MovieList.dll
+C:\Users\there\source\repos\Savage_Lab10_MovieList\Savage_Lab10_MovieList\obj\Debug\netcoreapp3.1\Savage_Lab10_MovieList.pdb
+C:\Users\there\source\repos\Savage_Lab10_MovieList\Savage_Lab10_MovieList\obj\Debug\netcoreapp3.1\Savage_Lab10_MovieList.genruntimeconfig.cache

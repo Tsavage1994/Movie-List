@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Savage_Lab10_MovieList/1.0.0": {
+        "runtime": {
+          "Savage_Lab10_MovieList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Savage_Lab10_MovieList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

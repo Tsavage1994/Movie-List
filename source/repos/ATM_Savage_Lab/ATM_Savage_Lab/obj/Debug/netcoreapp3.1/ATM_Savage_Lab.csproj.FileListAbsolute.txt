@@ -1,0 +1,13 @@
+C:\Users\there\source\repos\ATM_Savage_Lab\ATM_Savage_Lab\bin\Debug\netcoreapp3.1\ATM_Savage_Lab.exe
+C:\Users\there\source\repos\ATM_Savage_Lab\ATM_Savage_Lab\bin\Debug\netcoreapp3.1\ATM_Savage_Lab.deps.json
+C:\Users\there\source\repos\ATM_Savage_Lab\ATM_Savage_Lab\bin\Debug\netcoreapp3.1\ATM_Savage_Lab.runtimeconfig.json
+C:\Users\there\source\repos\ATM_Savage_Lab\ATM_Savage_Lab\bin\Debug\netcoreapp3.1\ATM_Savage_Lab.runtimeconfig.dev.json
+C:\Users\there\source\repos\ATM_Savage_Lab\ATM_Savage_Lab\bin\Debug\netcoreapp3.1\ATM_Savage_Lab.dll
+C:\Users\there\source\repos\ATM_Savage_Lab\ATM_Savage_Lab\bin\Debug\netcoreapp3.1\ATM_Savage_Lab.pdb
+C:\Users\there\source\repos\ATM_Savage_Lab\ATM_Savage_Lab\obj\Debug\netcoreapp3.1\ATM_Savage_Lab.csprojAssemblyReference.cache
+C:\Users\there\source\repos\ATM_Savage_Lab\ATM_Savage_Lab\obj\Debug\netcoreapp3.1\ATM_Savage_Lab.AssemblyInfoInputs.cache
+C:\Users\there\source\repos\ATM_Savage_Lab\ATM_Savage_Lab\obj\Debug\netcoreapp3.1\ATM_Savage_Lab.AssemblyInfo.cs
+C:\Users\there\source\repos\ATM_Savage_Lab\ATM_Savage_Lab\obj\Debug\netcoreapp3.1\ATM_Savage_Lab.csproj.CoreCompileInputs.cache
+C:\Users\there\source\repos\ATM_Savage_Lab\ATM_Savage_Lab\obj\Debug\netcoreapp3.1\ATM_Savage_Lab.dll
+C:\Users\there\source\repos\ATM_Savage_Lab\ATM_Savage_Lab\obj\Debug\netcoreapp3.1\ATM_Savage_Lab.pdb
+C:\Users\there\source\repos\ATM_Savage_Lab\ATM_Savage_Lab\obj\Debug\netcoreapp3.1\ATM_Savage_Lab.genruntimeconfig.cache
